@@ -86,3 +86,7 @@ If you'd like to contribute to this project, please follow these steps:
 ## License
    
 This project is licensed under the [MIT-LICENSE] - see the [LICENSE](https://github.com/Navneet-Singh01/Netflix-Landing-Page-Clone/blob/main/LICENSE) file for details.
+
+## Author
+
+Navneet Singh (https://github.com/Navneet-Singh01)
