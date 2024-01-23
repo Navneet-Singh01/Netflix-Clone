@@ -4,7 +4,7 @@ This project contains the code for building a Netflix-inspired home page using H
 
 ## Demo
 
-[Link to live demo](#)
+[Link to live demo](https://navneet-singh01.github.io/Netflix-Landing-Page-Clone/)
 
 ## Features
 
@@ -19,6 +19,41 @@ This project contains the code for building a Netflix-inspired home page using H
 - HTML
 - CSS
 - JavaScript
+
+## Screenshots
+
+### 1. Screenshot 1
+
+![screenshot](./screenshots/screenshots-1.png)
+
+### 2. Screenshot 2
+
+![screenshot](./screenshots/screenshots-2.png)
+
+### 3. Screenshot 3
+
+![screenshot](./screenshots/screenshots-3.png)
+
+### 4. Screenshot 4
+
+![screenshot](./screenshots/screenshots-4.png)
+
+### 5. Screenshot 5
+
+![screenshot](./screenshots/screenshots-5.png)
+
+### 6. Screenshot 6
+
+![screenshot](./screenshots/screenshots-6.png)
+
+### 7. Screenshot 7
+
+![screenshot](./screenshots/screenshots-7.png)
+
+### 8. Screenshot 8
+
+![screenshot](./screenshots/screenshots-8.png)
+
 
 ## Setup
 
@@ -50,4 +85,4 @@ If you'd like to contribute to this project, please follow these steps:
 
 ## License
    
-This project is licensed under the [MIT License] License - see the [LICENSE](https://github.com/Navneet-Singh01/Netflix-Landing-Page-Clone/blob/main/LICENSE) file for details.
+This project is licensed under the [MIT-LICENSE] - see the [LICENSE](https://github.com/Navneet-Singh01/Netflix-Landing-Page-Clone/blob/main/LICENSE) file for details.
